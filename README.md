@@ -1,4 +1,4 @@
-# Project 3 - *ZPG*
+# Project 3 - *Zarsla Parsegram*
 
 **ZPG** is a photo sharing app similar to Instagram but using Parse as its backend.
 
