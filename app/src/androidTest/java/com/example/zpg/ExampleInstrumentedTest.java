@@ -1,4 +1,4 @@
-package com.example.zpg;
+package com.example.zarslapg;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.zpg", appContext.getPackageName());
+        assertEquals("com.example.zarslapg", appContext.getPackageName());
     }
 }
