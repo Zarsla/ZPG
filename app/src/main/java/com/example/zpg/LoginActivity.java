@@ -1,4 +1,4 @@
-package com.example.zarslapg;
+package com.example.zpg;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.zarslapg.R;
+import com.example.zpg.R;
 import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
